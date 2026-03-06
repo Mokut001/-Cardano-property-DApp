@@ -1,1 +1,0 @@
-Full stack Cardano Property Solutions DApp. Built with Plutus V2 and Lucid. Deploy to Vercel.
