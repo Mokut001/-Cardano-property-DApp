@@ -1,1 +1,0 @@
--- Plutus script placeholder\nmodule Minting where\n\npolicy = undefined
