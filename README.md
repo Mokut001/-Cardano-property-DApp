@@ -1,1 +1,1 @@
-# -Cardano-property-DApp
+# PropChain\nFull-stack Cardano DApp. Deployment ready for Vercel.
