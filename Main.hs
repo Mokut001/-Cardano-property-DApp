@@ -1,1 +1,0 @@
-module Main where\n\nmain = putStrLn \"PropChain API running at port 8080...\"
